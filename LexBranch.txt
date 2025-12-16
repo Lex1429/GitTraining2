@@ -4,3 +4,5 @@ LexTest3
 
 LexTest4
 LexTest5
+LexTest6
+LexTest7
